@@ -1,14 +1,14 @@
-/* Your CSS code here */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-}
+/*  your css code here. If applicable */
+body{
 
-input {
-    padding: 10px;
-    font-size: 16px;
-    margin: 10px 0;
-    width: calc(100% - 22px); /* Full width with padding considered */
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+	margin: 0;
+	padding: 0;
+}
+input{
+	padding: 10px;
+	font-size: 16px;
+	margin: 10px 0;
+	width: calc(100% - 22px;)
 }
